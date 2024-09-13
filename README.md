@@ -2,14 +2,11 @@
 
 ## 👨‍💻  Somethings about me:
 
-🤔   I love to work as a Fullstack Engineer.
-🎓   Graduated in Computer Engineering.
-💼   Working as FullStack Developer in Brazil.
-🚀   Working mainly with NextJS, Tailwind and open to anything involving the Javascript/Typescript Ecosystem
-🎮   Games and Animes lover.
-
-
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+- 🤔   I love to work as a Fullstack Engineer.
+- 🎓   Graduated in Computer Engineering.
+- 💼   Working as FullStack Developer in Brazil.
+- 🚀   Working mainly with NextJS, Tailwind and open to anything involving the Javascript/Typescript Ecosystem
+- 🎮   Games and Animes lover.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
