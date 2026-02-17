@@ -1,51 +1,71 @@
-<h1 align="center">Hi 👋, I'm Carlos</h1>
-
-## 👨‍💻  Somethings about me:
-
-- 🤔   I love to work as a Fullstack Engineer.
-- 🎓   Graduated in Computer Engineering.
-- 💼   Working as FullStack Developer in Brazil.
-- 🚀   Working mainly with NextJS, Tailwind and open to anything involving the Javascript/Typescript Ecosystem
-- 🎮   Games and Animes lover.
-
-###
-
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosDniews&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A965F2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Carlos+da+Rosa;Tech+Lead+%26+Software+Engineer;Full-Stack+Architect;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
 </div>
 
-###
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/carlos-da-rosa-63591a159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-da-rosa-63591a159/" height="30" width="40" /></a>
-<a href="https://instagram.com/carlosdaniel_rosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlosdaniel_rosa" height="30" width="40" /></a>
-<a href="https://discord.gg/_carlosd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_carlosd" height="30" width="40" /></a>
-</p>
-
-###
-
-<h3 align="left">Languages and Tools:</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<div align="center">
+  <h3>Building scalable solutions with NextJS, NestJS & AI</h3>
 </div>
 
-###
+<br/>
 
-<br clear="both">
+## 👨‍💻 About Me
 
+[cite_start]I am a **Computer Engineer** with over 7 years of experience[cite: 3, 8], currently working as **Tech Lead** at **BOREO Sistemas e Gestão** [User Prompt]. My focus is on architecting high-performance web solutions, modernizing legacy systems, and implementing DevOps cultures.
 
-###
+- 🔭 **Current Role:** Leading the modernization of BOREO's tech stack and mentoring the dev team.
+- 🏗️ **Recent Projects:**
+  - **AI-Powered BI:** A complete Business Intelligence platform tracking 30+ KPIs with an integrated AI Chatbot [User Prompt].
+  - **Cloud Product Manager:** Unified cloud management system with AI integration [User Prompt].
+  - **NFS-e Service:** Free cloud-based invoice issuer integrated with the Brazilian Gov API [User Prompt].
+  - **Web ERP:** Architecting a full web-service ERP from scratch [User Prompt].
+- 🚀 **Main Stack:** NextJS, NestJS, TypeScript, TailwindCSS & Cloud Infrastructure.
+- ⚙️ **DevOps:** CI/CD Pipelines (GitHub Actions), Automated Testing & Performance Metrics [User Prompt].
+- [cite_start]🎓 **Education:** MBA in Business IT & Post-Grad in Software Engineering[cite: 9, 60, 63].
+- ⚡ **Fun fact:** I love Games, Anime, and I'm a former Math Olympiad medalist (OBMEP).
+
+<br/>
+
+## 🚀 Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nestjs,react,nodejs,tailwind,html,css,python,delphi,mysql,postgres,docker,githubactions,git,vscode&perline=9" />
+  </a>
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/CarlosDniews">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosDniews&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDniews&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosDniews&theme=dracula" alt="carlos-streak" />
+</div>
+
+<br/>
+
+## 🤝 Connect with me
+
+<div align="center"> 
+  <a href="https://linkedin.com/in/carlos-da-rosa-63591a159/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a> 
+  <a href="mailto:darosa.cdaniel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://instagram.com/carlosdaniel_rosa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+   <a href="https://discord.gg/_carlosd" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+---
+<p align="center">Designed with ❤️ by Carlos da Rosa</p>
