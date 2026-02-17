@@ -10,17 +10,17 @@
 
 ## 👨‍💻 About Me
 
-[cite_start]I am a **Computer Engineer** with over 7 years of experience[cite: 3, 8], currently working as **Tech Lead** at **BOREO Sistemas e Gestão** [User Prompt]. My focus is on architecting high-performance web solutions, modernizing legacy systems, and implementing DevOps cultures.
+I am a **Computer Engineer** with over 7 years of experience, currently working as **Tech Lead** at **BOREO Sistemas e Gestão**. My focus is on architecting high-performance web solutions, modernizing legacy systems, and implementing DevOps cultures.
 
 - 🔭 **Current Role:** Leading the modernization of BOREO's tech stack and mentoring the dev team.
 - 🏗️ **Recent Projects:**
-  - **AI-Powered BI:** A complete Business Intelligence platform tracking 30+ KPIs with an integrated AI Chatbot [User Prompt].
-  - **Cloud Product Manager:** Unified cloud management system with AI integration [User Prompt].
-  - **NFS-e Service:** Free cloud-based invoice issuer integrated with the Brazilian Gov API [User Prompt].
-  - **Web ERP:** Architecting a full web-service ERP from scratch [User Prompt].
+  - **AI-Powered BI:** A complete Business Intelligence platform tracking 30+ KPIs with an integrated AI Chatbot.
+  - **Cloud Product Manager:** Unified cloud management system with AI integration.
+  - **NFS-e Service:** Free cloud-based invoice issuer integrated with the Brazilian Gov API.
+  - **Web ERP:** Architecting a full web-service ERP from scratch.
 - 🚀 **Main Stack:** NextJS, NestJS, TypeScript, TailwindCSS & Cloud Infrastructure.
-- ⚙️ **DevOps:** CI/CD Pipelines (GitHub Actions), Automated Testing & Performance Metrics [User Prompt].
-- [cite_start]🎓 **Education:** MBA in Business IT & Post-Grad in Software Engineering[cite: 9, 60, 63].
+- ⚙️ **DevOps:** CI/CD Pipelines (GitHub Actions), Automated Testing & Performance Metrics.
+- 🎓 **Education:** MBA in Business IT & Post-Grad in Software Engineering.
 - ⚡ **Fun fact:** I love Games, Anime, and I'm a former Math Olympiad medalist (OBMEP).
 
 <br/>
@@ -35,17 +35,21 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 🏆 Achievements & Stats
 
 <div align="center">
-  <a href="https://github.com/CarlosDniews">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosDniews&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDniews&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=CarlosDniews&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosDniews&theme=dracula" alt="carlos-streak" />
+  <a href="https://github.com/CarlosDniews">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosDniews&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDniews&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 <br/>
